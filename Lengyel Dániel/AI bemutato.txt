@@ -1,0 +1,27 @@
+1. Dia: Cím és Bevezetés
+Cím: A Mesterséges Intelligencia Történelme
+Bevezetés: Rövid áttekintés a mesterséges intelligencia (MI) fogalmáról és jelentőségéről.
+2. Dia: Korai Kezdetek
+1943: Warren McCulloch és Walter Pitts neuron modellje1.
+1950: Alan Turing és a Turing-teszt1.
+3. Dia: Az MI Megszületése
+1956: Dartmouth konferencia, John McCarthy, Marvin Minsky, Claude Shannon1.
+4. Dia: Az Első MI Programok
+1950-es évek vége: Logic Theorist és General Problem Solver1.
+5. Dia: Az MI Tél
+1970-es évek: Az MI kutatás finanszírozásának csökkenése2.
+6. Dia: Az Expert Rendszerek Kora
+1980-as évek: Expert rendszerek, mint például a MYCIN2.
+7. Dia: Az MI Újjáéledése
+1990-es évek: Gépi tanulás és adatbányászat2.
+8. Dia: A Mély Tanulás Forradalma
+2012: Mély tanulás áttörése, AlexNet2.
+9. Dia: Az MI Alkalmazásai
+Napjaink: Képfelismerés, beszédfelismerés, önvezető autók2.
+10. Dia: Az MI Etikai Kérdései
+Etikai kérdések: Adatvédelem, munkahelyek jövője2.
+11. Dia: Jövőbeli Kilátások
+Jövő: Az MI potenciális fejlődési irányai2.
+12. Dia: Összefoglalás és Kérdések
+Összefoglalás: A főbb pontok áttekintése.
+Kérdések: Lehetőség a közönség kérdéseire
