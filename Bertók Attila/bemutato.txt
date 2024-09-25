@@ -1,0 +1,36 @@
+Címoldal
+Cím: A Mesterséges Intelligencia Története
+Alcím: Az AI fejlődése az 1940-es évektől napjainkig
+Készítette: [A neved]
+Bevezetés
+Rövid áttekintés a mesterséges intelligencia fogalmáról és jelentőségéről.
+Korai Kezdetek (1940-1950-es évek)
+Warren McCulloch és Walter Pitts neuron modellje (1943)
+Alan Turing és a Turing-teszt (1950)
+A Mesterséges Intelligencia Születése (1956)
+Dartmouth konferencia és John McCarthy szerepe
+Az “AI” kifejezés megalkotása
+Korai Fejlesztések (1950-1960-as évek)
+Első neurális hálók és gépi tanulás
+Marvin Minsky és Dean Edmonds SNARC gépe
+Az AI Tél (1970-1980-as évek)
+Az AI kutatás finanszírozásának csökkenése
+A korai AI rendszerek korlátai
+Újraéledés és Fejlődés (1980-1990-es évek)
+Expert rendszerek és alkalmazásaik
+A gépi tanulás és a neurális hálók újjáéledése
+A Mély Tanulás Forradalma (2010-es évek)
+Mély neurális hálók és a nagy adathalmazok szerepe
+Jelentős áttörések, mint a Google DeepMind és AlphaGo
+AI a Mindennapokban (2020-as évek)
+AI alkalmazások a mindennapi életben (pl. virtuális asszisztensek, önvezető autók)
+Az AI hatása a gazdaságra és társadalomra
+Etikai és Jogi Kérdések
+Az AI etikai dilemmái
+Szabályozási kihívások és megoldások
+Jövőbeli Kilátások
+Az AI jövőbeli irányai és lehetőségei
+Potenciális hatások és kihívások
+Összefoglalás és Kérdések
+A bemutató összefoglalása
+Kérdések és válaszok szekció
