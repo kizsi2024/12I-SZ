@@ -1,0 +1,46 @@
+Bevezetés a mesterséges intelligenciába (MI)
+Definíció és alapfogalmak
+Az MI céljai és alkalmazási területei
+
+Az MI korai évei (1940-es és 1950-es évek)
+Alan Turing és a Turing-teszt1
+Első neurális hálózatok és a McCulloch-Pitts modell2
+
+Az MI megszületése (1956)
+Dartmouth konferencia és John McCarthy2
+Az MI hivatalos tudományágként való elismerése
+
+Az MI első hulláma (1956-1974)
+Korai optimizmus és kutatási eredmények
+Első MI programok és rendszerek
+
+Az MI tele (1974-1980)
+Kutatási finanszírozás csökkenése
+Az MI fejlődésének lassulása
+
+Az MI második hulláma (1980-1987)
+Szakértői rendszerek és alkalmazásaik2
+Japán ötödik generációs számítógép projektje
+
+Az MI második tele (1987-1993)
+Újabb finanszírozási problémák
+Az MI kutatásának stagnálása
+
+Az MI újjáéledése (1993-2011)
+Gépi tanulás és neurális hálózatok fejlődése
+Az internet és a nagy adathalmazok szerepe
+
+A mély tanulás korszaka (2012-től napjainkig)
+Mély neurális hálózatok és áttörések1
+Az MI alkalmazása a mindennapi életben
+Az MI jelenlegi állapota
+Az MI szerepe az iparban és a gazdaságban
+Etikai kérdések és szabályozások1
+
+Az MI jövője
+Lehetséges fejlődési irányok
+Az MI hatása a társadalomra és a munkaerőpiacra
+
+Összefoglalás és zárszó
+Az MI jelentősége és kihívásai
+Jövőbeli kilátások és kutatási irányok
