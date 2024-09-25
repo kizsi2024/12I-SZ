@@ -1,0 +1,71 @@
+Természetesen! Íme egy 12 diából álló diavetítés a mesterséges intelligencia történetéről:
+
+### 1. Dia: Bevezetés
+- **Cím:** A mesterséges intelligencia története
+- **Tartalom:** Rövid áttekintés a mesterséges intelligencia (MI) fejlődéséről és jelentőségéről.
+
+### 2. Dia: Korai Kezdetek
+- **Cím:** Az MI korai kezdetek
+- **Tartalom:** Alan Turing és a Turing-teszt (1950) ¹.
+
+### 3. Dia: Az Első MI Programok
+- **Cím:** Az első MI programok
+- **Tartalom:** Logic Theorist és General Problem Solver (1956) ².
+
+### 4. Dia: Az MI Tél
+- **Cím:** Az MI tél
+- **Tartalom:** Az 1970-es és 1980-as évek kihívásai és kudarcai ³.
+
+### 5. Dia: Expert Rendszerek
+- **Cím:** Expert rendszerek
+- **Tartalom:** Az 1980-as évek expert rendszerei és alkalmazásaik ⁴.
+
+### 6. Dia: A Neurális Hálók Újjáéledése
+- **Cím:** A neurális hálók újjáéledése
+- **Tartalom:** A mély tanulás és a neurális hálók fejlődése (2010-es évek) ⁵.
+
+### 7. Dia: Az MI Tavasza
+- **Cím:** Az MI tavasza
+- **Tartalom:** Az MI újraéledése és sikerei a 2010-es években ⁶.
+
+### 8. Dia: Az MI a Mindennapokban
+- **Cím:** Az MI a mindennapokban
+- **Tartalom:** Az MI alkalmazásai a hétköznapi életben, mint például a hangasszisztensek és az önvezető autók .
+
+### 9. Dia: Az MI Etikai Kérdései
+- **Cím:** Az MI etikai kérdései
+- **Tartalom:** Az MI etikai és társadalmi kihívásai .
+
+### 10. Dia: Az MI Jövője
+- **Cím:** Az MI jövője
+- **Tartalom:** Az MI jövőbeli lehetőségei és kihívásai .
+
+### 11. Dia: Az MI Magyarországon
+- **Cím:** Az MI Magyarországon
+- **Tartalom:** Az MI kutatások és fejlesztések Magyarországon .
+
+### 12. Dia: Összegzés
+- **Cím:** Összegzés
+- **Tartalom:** A mesterséges intelligencia fejlődésének összefoglalása és jelentősége a jövőben.
+
+Remélem, hasznosnak találod ezt a diavetítést! Ha bármilyen további információra van szükséged, nyugodtan jelezd. 😊
+
+¹: [Wikipedia - Mesterséges intelligencia](https://hu.wikipedia.org/wiki/Mesters%C3%A9ges_intelligencia)
+²: [Mesterséges Intelligencia Elektronikus Almanach](http://project.mit.bme.hu/mi_almanach/books/aima/ch01s03)
+³: [Cryptoguru - A mesterséges intelligencia rövid története](https://cryptoguru.hu/a-mesterseges-intelligencia-rovid-tortenete/)
+⁴: [Műszaki Magazin - A mesterséges intelligencia története](https://www.muszaki-magazin.hu/2023/02/06/mesterseges-intelligencia/)
+⁵: [Youth.europa.eu - Amit fontos tudni a mesterséges intelligenciáról](https://youth.europa.eu/get-involved/your-rights-and-inclusion/artificial-intelligence-what-you-should-better-know_hu)
+⁶: [Wikipedia - Mesterséges intelligencia](https://hu.wikipedia.org/wiki/Mesters%C3%A9ges_intelligencia)
+: [Mesterséges Intelligencia Elektronikus Almanach](http://project.mit.bme.hu/mi_almanach/books/aima/ch01s03)
+: [Cryptoguru - A mesterséges intelligencia rövid története](https://cryptoguru.hu/a-mesterseges-intelligencia-rovid-tortenete/)
+: [Műszaki Magazin - A mesterséges intelligencia története](https://www.muszaki-magazin.hu/2023/02/06/mesterseges-intelligencia/)
+: [Youth.europa.eu - Amit fontos tudni a mesterséges intelligenciáról](https://youth.europa.eu/get-involved/your-rights-and-inclusion/artificial-intelligence-what-you-should-better-know_hu)
+
+Forrás: Beszélgetés a Copilottal. 2024. 09. 25.
+(1) Mesterséges intelligencia – Wikipédia. https://hu.wikipedia.org/wiki/Mesters%C3%A9ges_intelligencia.
+(2) 1.3. A mesterséges intelligencia története | Mesterséges .... http://project.mit.bme.hu/mi_almanach/books/aima/ch01s03.
+(3) A mesterséges intelligencia rövid története - cryptoguru. https://bing.com/search?q=mesters%c3%a9ges+intelligencia+t%c3%b6rt%c3%a9nete.
+(4) A mesterséges intelligencia rövid története - cryptoguru. https://cryptoguru.hu/a-mesterseges-intelligencia-rovid-tortenete/.
+(5) Amit fontos tudni a mesterséges intelligenciáról. https://youth.europa.eu/get-involved/your-rights-and-inclusion/artificial-intelligence-what-you-should-better-know_hu.
+(6) A mesterséges intelligencia története - Műszaki Magazin. https://www.muszaki-magazin.hu/2023/02/06/mesterseges-intelligencia/.
+(7) Getty Images. https://www.gettyimages.com/detail/photo/machine-learning-hands-of-robot-and-human-touching-royalty-free-image/1206796363.
