@@ -1,0 +1,36 @@
+1. Dia: Cím és Bevezetés
+Cím: A Mesterséges Intelligencia Története
+Bevezetés: Rövid áttekintés arról, hogy mi a mesterséges intelligencia (MI) és miért fontos a története.
+
+2. Dia: Korai Kezdetek
+Tartalom: Az MI fogalmának korai megjelenése a tudományos-fantasztikus irodalomban és az első elméleti alapok (pl. Alan Turing munkássága).
+
+3. Dia: Az Első Neurális Hálózatok
+Tartalom: Warren McCulloch és Walter Pitts 1943-as munkája az első mesterséges neuron modellekről1.
+
+4. Dia: A Dartmouth Konferencia (1956)
+Tartalom: Az MI hivatalos születése a Dartmouth College-ban tartott konferencián, ahol John McCarthy, Marvin Minsky és mások részt vettek.
+
+5. Dia: Az Első MI Programok
+Tartalom: Az első MI programok, mint például az ELIZA és a Shakey robot.
+
+6. Dia: Az MI Tél (1970-es évek)
+Tartalom: Az MI kutatás finanszírozásának csökkenése és a technológiai korlátok miatti csalódások.
+
+7. Dia: A Szakértői Rendszerek Kora (1980-as évek)
+Tartalom: A szakértői rendszerek megjelenése és alkalmazása az iparban.
+
+8. Dia: A Gépi Tanulás Fejlődése (1990-es évek)
+Tartalom: A gépi tanulás és az adatbányászat előretörése.
+
+9. Dia: A Mélytanulás Forradalma (2010-es évek)
+Tartalom: A mélytanulás technikáinak megjelenése és áttörése, mint például a neurális hálók és a konvolúciós neurális hálók.
+
+10. Dia: Az MI Alkalmazásai Napjainkban
+Tartalom: Az MI alkalmazásai a mindennapi életben, mint például az önvezető autók, a beszédfelismerés és az egészségügy.
+
+11. Dia: Etikai és Társadalmi Kérdések
+Tartalom: Az MI etikai kérdései, mint például az adatvédelem, a munkahelyek automatizálása és a dezinformáció.
+
+12. Dia: Jövőbeli Kilátások
+Tartalom: Az MI jövőbeli lehetőségei és kihívásai, valamint a technológia várható fejlődése.
