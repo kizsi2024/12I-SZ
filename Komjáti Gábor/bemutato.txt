@@ -1,0 +1,36 @@
+Bevezetés
+Definíció: Mi a mesterséges intelligencia (MI)?
+Rövid áttekintés a prezentációról
+Korai kezdetek
+Alan Turing és a Turing-teszt
+Első neurális háló modellek (McCulloch és Pitts, 1943)
+Az MI megszületése
+Dartmouth konferencia (1956)
+John McCarthy és az “artificial intelligence” kifejezés
+Korai sikerek és kudarcok
+Első MI programok: Logic Theorist, General Problem Solver
+Az első MI-tél (1974-1980)
+A szakértői rendszerek kora
+DENDRAL és MYCIN rendszerek
+Az MI második tavasza (1980-as évek)
+Neurális hálók és gépi tanulás
+Backpropagation algoritmus
+Hopfield hálók és Kohonen térképek
+Az MI második tele
+Az 1980-as évek végének és az 1990-es évek elejének kihívásai
+A finanszírozás csökkenése
+A modern MI felemelkedése
+Mély tanulás és a 2010-es évek áttörései
+AlphaGo és más jelentős eredmények
+MI alkalmazások
+Egészségügy, autonóm járművek, pénzügyek
+Képfelismerés, természetes nyelv feldolgozás
+Etikai és társadalmi kérdések
+Adatvédelem, munkahelyek jövője
+Az MI etikai irányelvei és szabályozása
+Jövőbeli kilátások
+Kvantum számítástechnika és MI
+Az MI potenciális hatásai a társadalomra
+Összefoglalás és kérdések
+A főbb pontok összefoglalása
+Kérdések és válaszok

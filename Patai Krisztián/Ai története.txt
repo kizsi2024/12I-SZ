@@ -1,0 +1,36 @@
+Dia 1: Bevezetés
+Cím: Mesterséges Intelligencia Története
+Tartalom: Rövid áttekintés a mesterséges intelligencia (MI) fejlődéséről és jelentőségéről.
+Dia 2: Korai Kezdetek
+Cím: Az MI korai kezdetek
+Tartalom: Alan Turing és az egyetemes gép elmélete (1936) 1.
+Dia 3: Az Első Neurális Hálózatok
+Cím: Az első neurális hálózatok
+Tartalom: McCulloch és Pitts neurális modellje (1943) 2.
+Dia 4: A Dartmouth Konferencia
+Cím: A Dartmouth konferencia
+Tartalom: Az MI hivatalos születése (1956) 3.
+Dia 5: Az Első MI Programok
+Cím: Az első MI programok
+Tartalom: Logic Theorist és General Problem Solver (1956-1959) 2.
+Dia 6: Az MI Tél
+Cím: Az MI tél
+Tartalom: Az MI kutatás finanszírozásának csökkenése (1970-es évek) 4.
+Dia 7: Expert Rendszerek
+Cím: Expert rendszerek
+Tartalom: DENDRAL és MYCIN rendszerek (1965-1980) 4.
+Dia 8: A Gépi Tanulás Fejlődése
+Cím: A gépi tanulás fejlődése
+Tartalom: A neurális hálózatok újjáéledése és a backpropagation algoritmus (1986) 4.
+Dia 9: Az MI Újraéledése
+Cím: Az MI újraéledése
+Tartalom: A mély tanulás és a nagy adathalmazok megjelenése (2010-es évek) 4.
+Dia 10: Az MI Alkalmazásai
+Cím: Az MI alkalmazásai
+Tartalom: Az MI használata az egészségügyben, autóiparban, pénzügyekben stb4.
+Dia 11: Etikai Kérdések
+Cím: Etikai kérdések
+Tartalom: Az MI etikai és társadalmi hatásai 4.
+Dia 12: Jövőbeli Kilátások
+Cím: Jövőbeli kilátások
+Tartalom: Az MI jövője és potenciális fejlődési irányai 4.
