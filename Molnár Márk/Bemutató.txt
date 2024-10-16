@@ -1,0 +1,59 @@
+1. Dia: Bevezetés
+
+    Cím: A mesterséges intelligencia története
+    Tartalom: Rövid áttekintés a bemutató témájáról és céljáról.
+
+2. Dia: Korai Kezdetek
+
+    Cím: Az MI korai kezdetek
+    Tartalom: Az MI fogalmának megjelenése az 1950-es években. Alan Turing és a Turing-teszt.
+
+3. Dia: Az Első MI Programok
+
+    Cím: Az első MI programok
+    Tartalom: Az első MI programok, mint például az ELIZA és a Shakey robot.
+
+4. Dia: Az MI Tél
+
+    Cím: Az MI tél
+    Tartalom: Az 1970-es és 1980-as évek kihívásai és a finanszírozás csökkenése.
+
+5. Dia: Újraéledés
+
+    Cím: Az MI újraéledése
+    Tartalom: Az 1990-es évek és a gépi tanulás fejlődése.
+
+6. Dia: Mélytanulás
+
+    Cím: A mélytanulás forradalma
+    Tartalom: A mélytanulás és a neurális hálózatok előretörése a 2010-es években.
+
+7. Dia: Az MI Alkalmazásai
+
+    Cím: Az MI alkalmazásai
+    Tartalom: Az MI alkalmazásai különböző területeken, mint például az egészségügy, az autóipar és a pénzügy.
+
+8. Dia: Az MI Etikai Kérdései
+
+    Cím: Az MI etikai kérdései
+    Tartalom: Az MI használatával kapcsolatos etikai és társadalmi kérdések.
+
+9. Dia: Az MI Jövője
+
+    Cím: Az MI jövője
+    Tartalom: Az MI jövőbeli lehetőségei és kihívásai.
+
+10. Dia: Az MI Magyarországon
+
+    Cím: Az MI Magyarországon
+    Tartalom: Az MI fejlesztések és kutatások Magyarországon.
+
+11. Dia: Összegzés
+
+    Cím: Összegzés
+    Tartalom: A bemutató főbb pontjainak összefoglalása.
+
+12. Dia: Kérdések és Válaszok
+
+    Cím: Kérdések és válaszok
+    Tartalom: Lehetőség a közönség kérdéseinek megválaszolására.
