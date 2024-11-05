@@ -1,0 +1,50 @@
+Természetesen! Íme egy 12 diából álló bemutató a mesterséges intelligencia (MI) történetéről:
+
+### 1. Dia: Bevezetés
+- **Cím:** Mesterséges Intelligencia Története
+- **Tartalom:** Rövid áttekintés a bemutató témájáról és céljáról.
+
+### 2. Dia: Korai Kezdetek
+- **Cím:** Az MI Korai Kezdetek
+- **Tartalom:** Warren McCulloch és Walter Pitts 1943-as munkája a mesterséges neuronokról².
+
+### 3. Dia: Turing és a Turing-teszt
+- **Cím:** Alan Turing és a Turing-teszt
+- **Tartalom:** Alan Turing 1950-es cikke és a Turing-teszt bemutatása².
+
+### 4. Dia: Dartmouth Konferencia
+- **Cím:** A Dartmouth Konferencia
+- **Tartalom:** Az 1956-os Dartmouth Konferencia, ahol az MI hivatalosan megszületett².
+
+### 5. Dia: Korai Fejlesztések
+- **Cím:** Korai Fejlesztések
+- **Tartalom:** Az 1950-es és 1960-as évek MI fejlesztései, például az első neurális hálók².
+
+### 6. Dia: Az MI Tél
+- **Cím:** Az MI Tél
+- **Tartalom:** Az 1970-es és 1980-as évek kihívásai és visszaesései az MI kutatásban¹.
+
+### 7. Dia: Újraéledés
+- **Cím:** Az MI Újraéledése
+- **Tartalom:** Az 1990-es évek és a 2000-es évek eleji áttörések, például a mély tanulás¹.
+
+### 8. Dia: Mély Tanulás és Nagy Adatok
+- **Cím:** Mély Tanulás és Nagy Adatok
+- **Tartalom:** A 2010-es évek technológiai fejlődései, mint a mély tanulás és a nagy adatok¹.
+
+### 9. Dia: Modern Alkalmazások
+- **Cím:** Modern Alkalmazások
+- **Tartalom:** Az MI jelenlegi alkalmazásai az egészségügyben, az autóiparban és más területeken¹.
+
+### 10. Dia: Etikai Kérdések
+- **Cím:** Etikai Kérdések
+- **Tartalom:** Az MI etikai és társadalmi hatásai, mint a munkahelyek automatizálása és az adatvédelem¹.
+
+### 11. Dia: Jövőbeli Kilátások
+- **Cím:** Az MI Jövője
+- **Tartalom:** Az MI jövőbeli lehetőségei és kihívásai¹.
+
+### 12. Dia: Összegzés
+- **Cím:** Összegzés
+- **Tartalom:** A bemutató főbb pontjainak összefoglalása és záró gondolatok.
+
